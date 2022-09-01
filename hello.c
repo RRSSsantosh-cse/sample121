@@ -1,17 +1,9 @@
 #include<stdio.h>
-int main() 
+int main()
 {
 
 
-printf("Hello rizz this is santosh\n");
-
-
-
-
-
-
+printf("hello world");
 
 
 }
-
-
